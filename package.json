@@ -11,6 +11,7 @@
     "url": "https://github.com/mdressman/isomorphic-porch-demo/issues"
   },
   "scripts": {
+    "build": "gulp build",
     "start": "node server",
     "test": "node_modules/mocha/bin/mocha"
   },
